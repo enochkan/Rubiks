@@ -1,0 +1,1 @@
+from .rubiks import Rubiks
